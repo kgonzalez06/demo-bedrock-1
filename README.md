@@ -162,7 +162,3 @@ curl -X POST https://xxxx.lambda-url.us-east-1.on.aws/ \
 - La **Function URL está sin autenticación** (auth=NONE) — solo para demo. En producción usa `AWS_IAM`.
 - El timeout está en **60 segundos** porque Opus puede tardar ~10-15s.
 - Los precios en el código son de **Marzo 2026, región us-east-1**. Verifica en [aws.amazon.com/bedrock/pricing](https://aws.amazon.com/bedrock/pricing).
-
----
-
-*Hecho con ❤️ desde Costa Rica 🇨🇷 | @keylingonzalez en dev.to*
