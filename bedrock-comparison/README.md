@@ -11,7 +11,6 @@ Mide latencia, tokens y costo real en USD.
 bedrock-comparison/
 ├── lambda_handler.py         # Código de la Lambda (copiar a la consola)
 ├── guia_setup_aws.py         # Guía paso a paso para configurar en AWS Console
-├── requirements.txt
 └── README.md
 ```
 
